@@ -1,5 +1,0 @@
-# uagents8 does not use a Procfile - it starts a Python app with
-# `uvicorn main:app --host 0.0.0.0 --port $PORT`, detected automatically
-# because this repo has no Dockerfile and no go.mod/pom.xml/build.gradle/
-# Cargo.toml/package.json at the top level. This file is just documentation,
-# not a config format the platform reads.
